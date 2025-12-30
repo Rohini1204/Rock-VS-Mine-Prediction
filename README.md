@@ -11,7 +11,7 @@ R → Rock (cylindrical rock)
 This project demonstrates the end-to-end machine learning workflow, including:
 
 Data preprocessing: normalization, label encoding, and splitting into training/testing sets
-
+  
 Model training: Logistic Regression, Random Forest, and Support Vector Machines (SVM)
 
 Evaluation: measuring accuracy and comparing different models
